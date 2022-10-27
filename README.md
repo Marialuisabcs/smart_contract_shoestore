@@ -1,3 +1,9 @@
+# Trabalho 2 de Computação Distribuída (UFMS - FACOM)
+
+Autores: [Julia Alves C.](https://github.com/j-alves-c) e [Maria Luísa B. C. Silva](https://github.com/Marialuisabcs)
+
+Github Pages: https://marialuisabcs.github.io/smart_contract_showstore/
+
 # Install
 
 ```
